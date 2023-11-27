@@ -1,0 +1,10 @@
+body{
+    color:mediumblue
+}
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    margin: 300px auto;
+}
